@@ -1,0 +1,75 @@
+/*<style>
+*/
+body{
+	width: 960px;
+	margin:0 auto;
+	background-image: url("../images/black_thread.png");
+	
+	width: 960px; 
+	color: #ffffff;
+}
+h1{
+	color: #ffffff;
+	font-family: verdana;
+	font-size: 40px;
+	text-align: center;
+}
+h2,div#timeRemaining{
+	font-size: 25px;
+	font-family: verdana;
+	color: #ffffff;
+	padding: 0 10px 0 0px;
+}
+p{
+	color: #ffffff;
+	font-size: 82px;
+	font-family: verdana;
+}
+button{
+    background-color: #f2e2cd; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    shape-rendering: round;
+
+}
+.question-style{
+	font-size: 20px;
+	color: #f2e2cd;
+	font-family: Georgia;
+	margin: 10px 0px 0px 0px;
+}
+div#btnDiv{
+	/*margin-left: 300px;
+	top right bottom left   */
+	margin: 80px 0px 0px 350px;
+}
+div#questions{
+	font-size: 19px;
+	color: #dadae3;
+	font-family: Arial Narrow;
+	padding:5px 8px 10px 10px;
+	/*margin-left: 300px;
+	top right bottom left   */
+	margin: 5px 10px 10px 5px;
+}
+div#message{
+	font-size: 20px;
+	color: #ffffff;
+	font-family: Verdana;
+	padding:15px 8px 80px 10px;
+	/*margin-left: 300px;
+	top right bottom left   */
+	margin: 15px 0px 0px 10px;
+}
+div#stop{
+	margin-left: 30px;
+}
+/*
+
+
+/*</style>
